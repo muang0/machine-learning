@@ -1,3 +1,3 @@
-# AIML
+# Machine Learning
 
-Repo for housing various AIML projects
+Repo for housing various ML projects
